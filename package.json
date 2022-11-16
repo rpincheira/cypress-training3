@@ -1,0 +1,22 @@
+{
+  "name": "cypress-training3",
+  "version": "1.0.0",
+  "description": "This is a Workshop about Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpincheira/cypress-training3.git"
+  },
+  "keywords": [
+    "ui-testing"
+  ],
+  "author": "Rodrigo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpincheira/cypress-training3/issues"
+  },
+  "homepage": "https://github.com/rpincheira/cypress-training3#readme"
+}
